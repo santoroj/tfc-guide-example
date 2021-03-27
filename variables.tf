@@ -17,3 +17,13 @@ variable "db_write_capacity" {
   type    = number
   default = 1
 }
+
+variable "AWS_REGION"{}
+variable "AWS_REGION_1"{}
+variable "AWS_REGION_2"{}
+variable "AWS_REGION_3"{}
+variable "AMI_SIZE"{}
+variable "AWS_AMI"{}
+variable "AWS_SECRET_KEY"{}
+variable "AWS_ACCESS_KEY"{}
+variable "RDS_PASSWORD"{}
